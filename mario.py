@@ -15,8 +15,8 @@ else:
          block= number + count
          print(block,'#')
          count= count + 1
-range(number)
-for number in range(number):
+
+for number in range(number+1):
     number= "#" * number
     print(number)
     
