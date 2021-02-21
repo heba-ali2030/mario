@@ -17,8 +17,9 @@ else:
          count= count + 1
 range(number)
 for number in range(number):
-    number="#" * number
+    number= "#" * number
     print(number)
+    
 
 
 
